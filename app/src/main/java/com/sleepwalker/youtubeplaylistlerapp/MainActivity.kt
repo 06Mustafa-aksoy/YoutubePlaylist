@@ -17,7 +17,7 @@ import retrofit2.Response
 
 class MainActivity : AppCompatActivity() {
 
-    private val API_KEY = "AIzaSyCF9XfW85XyCu19cr9VN_TR9BuTB1PysyA"
+    private val API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxx"
     private val CHANNEL_ID = "UCpHsUAp8xSRGhxDhcZl2abA"
     var gelenVeri : PlaylistData?  = null
     var oynatmaListeleri : List<PlaylistData.Items>? = null
